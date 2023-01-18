@@ -29,5 +29,3 @@ print(f'Hello, i am {age} years old')
 
 # Exercise 9
 print('hello world')
-
-print('')
